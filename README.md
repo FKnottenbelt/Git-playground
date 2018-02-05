@@ -11,4 +11,4 @@ As the gardener – per the Developers instructions – had upload the garden to
 
 Thinking it might be nice to to have flowering trees in between the red flowers. The gardener started a branch to test out different fruit trees to see which would flower the prettiest.
 
-However, halfway through his fruit tree experiment, one of the red flower species got critically ill, so the gardener had to abandon his fruit tree experiment to fix the red flowers (using a hotfix branch to make sure he didn't make it worse), before he could get back to his fruit tree experiment.
+However, halfway through his fruit tree experiment, one of the red flower species got critically ill, so the gardener had to abandon his fruit tree experiment to fix the red flowers (using a hotfix branch to make sure he didn't make it worse), before he could get back to his fruit tree experiment, where he decided on an apple and a pear tree with red flowers in between. Merging the new fruit trees back into the main garden, meant solving some merge conflicts.
