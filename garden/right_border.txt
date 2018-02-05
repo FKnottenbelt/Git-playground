@@ -1,6 +1,6 @@
 # right border
 sand
-red flowers
 small red flowers
 apple tree
+red flowers
 pear tree
