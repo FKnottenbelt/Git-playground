@@ -1,4 +1,4 @@
 # right border
 sand
-red flowers
+red flowers + red flower medecine
 small red flowers
