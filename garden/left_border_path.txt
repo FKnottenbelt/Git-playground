@@ -1,0 +1,4 @@
+# left_border_path: path from main garden trough left border to permaculture
+# side garden
+sand
+tiles
